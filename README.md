@@ -8,3 +8,6 @@ some docs may be wrong, so use it at your own risk.
 you can submit new material
 * via **Telegram**: contact me @mascarpoone ;
 * via **GitHub**: just open a new pull request ;
+
+#### homepage uni // study plan
+https://portale.unipv.it/en/ugov/course/second_level_degree-2023-10279
