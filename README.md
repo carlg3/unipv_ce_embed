@@ -1,7 +1,7 @@
 ## what this repo is for
 
-this repo is a collection of materials that I found that can be helpful for some course.
-some docs may be wrong, so use it at your own risk.
+this repo is a collection of materials that I found that can be helpful.
+some docs may be wrong, so use them at your own risk.
 
 ## HELP this repo grow
 
